@@ -1,16 +1,16 @@
-## Hi there 👋
+![alt text](./banner.jpg)
 
-<!--
-**GregoireJacquin/gregoirejacquin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1643515882/19001/githubloading.gif?1643515882" width="30"/> ɪ'ᴍ Grégoire!
+*Digital Craftsman (Developer / Programmer)*
+<br />
+
+<!--Start Intro-->               
+<p align="left">I am a Full Stack Developer React.js, Node.js, Kotlin, Java, REST API. </p>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on TodoApp with React
+- 🌱 I’m currently learning React and Kotlin
+- 📫 How to reach me: X(Twitter), (LinkedIn)
+- ⚡ Fun fact: I'm former sports coach and dev x++
