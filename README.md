@@ -1,4 +1,4 @@
-![alt text](./banner.jpg)
+![alt text](./banner.png)
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1643515882/19001/githubloading.gif?1643515882" width="30"/> ɪ'ᴍ Grégoire!
